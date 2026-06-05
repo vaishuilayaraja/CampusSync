@@ -30,5 +30,7 @@ Developed By✨
 Vaishnavi I.!!🤍
 
 B.Sc.CS(Artificial Intelligence)
+
 NMS.S.Vellaichamy Nadar College
+
 Stack: React , Node , Express , MYSQL
