@@ -28,4 +28,13 @@ A full-stack web application to digitize and streamline administrative operation
 
 1. Clone the repo
 ```bash
+
+
 git clone https://github.com/vaishuilayaraja/CampusSync.git
+
+Developed By✨
+
+**Vaishnavi I**
+B.Sc.CS(Artificial Intelligence)
+NMS.S.Vellaichamy Nadar College
+Stack: React , Node , Express , MYSQL
