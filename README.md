@@ -24,11 +24,7 @@ A full-stack web application to digitize and streamline administrative operation
 - Node.js v18+ installed
 - MySQL installed and running
 
+🎯 ObjectivesImprove academic administration efficiencyCentralize student information management  Provide a user-friendly academic portalEnhance data accessibility and management
 
-Developed By - I Vaishnavi✨
 
-B.Sc.CS(Artificial Intelligence)
-
-NMS.S.Vellaichamy Nadar College
-
-Stack: React , Node , Express , MYSQL
+👨‍💻 Developed By Vaishnavi I | B.Sc.CS(Artificial Intelligence) | Final Year Academic Project – Full Stack Web Development⭐ If you found this project useful, consider giving it a star.
