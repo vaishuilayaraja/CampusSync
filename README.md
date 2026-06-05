@@ -24,13 +24,6 @@ A full-stack web application to digitize and streamline administrative operation
 - Node.js v18+ installed
 - MySQL installed and running
 
-### Installation
-
-1. Clone the repo
-```bash
-
-
-git clone https://github.com/vaishuilayaraja/CampusSync.git
 
 Developed By✨
 
@@ -38,3 +31,5 @@ Developed By✨
 B.Sc.CS(Artificial Intelligence)
 NMS.S.Vellaichamy Nadar College
 Stack: React , Node , Express , MYSQL
+
+git clone https://github.com/vaishuilayaraja/CampusSync.git
