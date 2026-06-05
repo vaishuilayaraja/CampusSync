@@ -25,9 +25,7 @@ A full-stack web application to digitize and streamline administrative operation
 - MySQL installed and running
 
 
-Developed By✨
-
-Vaishnavi I.!!🤍
+Developed By - I Vaishnavi✨
 
 B.Sc.CS(Artificial Intelligence)
 
