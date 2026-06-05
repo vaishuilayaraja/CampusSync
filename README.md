@@ -25,7 +25,7 @@ A full-stack web application to digitize and streamline administrative operation
 - MySQL installed and running
 
 
-🎯** Objectives**
+🎯**Objectives**
 
 Improve academic administration efficiency
 
@@ -36,6 +36,8 @@ Provide a user-friendly academic portal
 Enhance data accessibility and management
 
 
-👨‍💻 **Developed By** Vaishnavi I | B.Sc.CS(Artificial Intelligence) | Final Year Academic Project – Full Stack Web Development
+👨‍💻 **Developed By** 
+
+Vaishnavi I | B.Sc.CS(Artificial Intelligence) | Final Year Academic Project – Full Stack Web Development
 
 ⭐ If you found this project useful, consider giving it a star.
