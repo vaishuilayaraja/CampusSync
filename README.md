@@ -27,9 +27,8 @@ A full-stack web application to digitize and streamline administrative operation
 
 Developed By✨
 
-**Vaishnavi I**
+Vaishnavi I.!!🤍
+
 B.Sc.CS(Artificial Intelligence)
 NMS.S.Vellaichamy Nadar College
 Stack: React , Node , Express , MYSQL
-
-git clone https://github.com/vaishuilayaraja/CampusSync.git
